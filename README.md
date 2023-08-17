@@ -46,8 +46,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ziedak/ziedak/output/snake.svg" alt="Snake animation" />
-
-###
